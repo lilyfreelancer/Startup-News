@@ -1,17 +1,10 @@
 ---
-id: 4434
 title: Submit your press release for $100
-date: 2020-10-28T17:27:55+00:00
 author: admin
 layout: page
-guid: https://new.blicio.us/?page_id=4434
-classic-editor-remember:
-  - classic-editor
-slide_template:
-  - default
-ilj_linkdefinition:
-  - 'a:0:{}'
+permalink: /submit-press-release/
 ---
+
 Post your press release using the form below to reach new.blicio.us’s global audience!
 
   * <https://newblicious.typeform.com/to/el8B6eXR>

@@ -1,0 +1,38 @@
+---
+id: 2637
+title: Creating CastSpot
+date: 2020-03-08T18:34:50+00:00
+author: Marc Philippe Beaujean
+layout: post
+guid: http://new.blicio.us/?p=2637
+permalink: /creating-castspot/
+slide_template:
+  - default
+---
+# Idea and Conception
+
+I love podcasts – after discovering them, I started listening to different shows and episodes every day, while I was studying or (nowadays) on my way to work. Around Summer 2019, I noticed a trend – companies on my LinkedIn were all beginning to start their own podcasts. It was then that I realized Podcasts were going to be a big medium in the future and I wasn’t the only one starting to get a taste for them. I was also looking for a new side project since I finished University and thought that the podcasting space would be a great way to start – it had a lot of wind behind it, given all the attention that podcasts were starting to get. Of course, I had no idea what the actual problems were that a podcaster faced day-to-day, so I decided the best way to find out was to become a podcaster myself! I quickly got set up and created “The Junior Developer Podcast”, a show focused on teaching new developers like myself what it is like to start fresh in a new programming career. I ended up deleting the Podcast (might recover it at some point), but it helped me immensely in coming up with my final idea!
+
+My first podcast episodes were just monologues, unscripted and slightly edited. It was the editing that took quite a while, so my initial thought was to create an [AI](https://new.blicio.us/why-artificial-intelligence-is-still-not-that-intelligent/)-based audio service. The problem with this is that the editing did not really compensate for the overall lack of structure in the episodes, so while tedious, a lot of it could have been avoided if I had given more time to prepare each recording (which I struggled to do due to time constraints). After I uploaded my first episode, I headed down to a podcaster meetup. Here, I talked to one of the most successful German podcasters, who was signing deals with Spotify. I asked him on some tips for growing a new Podcast and he dropped a lot of gems, one that stuck the most with me was this: “if you find a podcaster who is in a similar space as you are, don’t see them as an enemy – collaborate with them, get them on your show! It’s a great way for both of you to grow your audience”. This seemed really smart, but even though I had already pitched an idea to some of the podcasters there and met 0 excitement (idea for a WordPress plugin that lets users sell advertisement space that I ended up dropping after the meetup), it didn’t strike me that this was what I should be focusing on.
+
+After the Meetup, I also hung around Reddit, where I started looking for new ideas and ways to improve my podcast. I had created around 3 episodes at the time, all had required heavy editing and because they were monologues instead of conversations, they were honestly a bit dull to listen to even though they were pretty short. To look for a new idea, I searched for phrases like “how do you” in the podcasting subreddit. I stumbled upon a post that caught my eye: “How do you get good guests on your show?” That was a great question and the gears started turning. I started to realize that having good guests on my show could be the solution to my own podcasting dilemma. Was it really that hard? I switched to the web developer subreddit and posted that I was looking for a junior developer that was willing to speak on my show – I immediately got bombarded with requests, most people had never heard of my podcast and didn’t even care. “Okay”, I thought, “this is really a non-issue”. But then I noticed that while I had people who wanted to speak on my show, figuring out who these people were and how suited they would be to speak as a guest could turn out to be very time-consuming. Most didn’t have referential audio or video material online that I could use, so I’d either need to follow my gut entirely or do a vetting interview for each potential candidate – this would take ages! I thought to myself how much easier it would be if all the applicants simply had their own podcasts...bingo.
+
+# MVP Conception
+
+As with most side projects, it's important to pinpoint where the real value in the idea lies and determine what the easiest way is to get there. For me, it was the ability to connect with real podcasters effortlessly. I didn't want a complex platform that would overwhelm users and have a bunch of features they might not even want. That's why I went for using email as the means of communicating when a user wants to apply to speak on someone's podcast. Email means I don't need to implement something complex like a chat system, which then leads to a notification system, which in turn immediately puts me on the path of building Facebook for podcasters (before getting any users to validate the idea and implement feedback). 
+
+Of course, I also looked at other guest speaking boards - most had things that bothered me. There were open directories, which shared the persons' contact details directly on the page (not something everyone is comfortable with) and forced members to pay (or put them on the back pages of the directory - nobody looks at those pages). I felt that having posts be on a per-episode basis which disappeared after a month would diversify what podcasts showed up at the top and that users were more likely to return to the site to create new posts. It also saves some time when both podcasters have a general idea of the type of topic they are going to cover. 
+
+# Development
+
+For my fulltime job, I am working with Java Enterprise, which seemed unsuitable for a simple side project. I realized that learning new technologies to build my platform would add a lot of additional development time, but I’d also get a lot out of it and my potential next project would be much faster to get up and running. 
+
+After some research, I realized that the Django web framework would be the best choice because I already knew Python and I was looking for a framework that came with a lot of functionality out of the box. I decided to split my backend and frontend, going with React as the SPA framework (which I already had experience with). In hindsight, I think this added a lot of unnecessary complexity for the MVP and I would just go for templates if I were to start over.
+
+I hosted the app on Render, a Heroku-like cloud provider. It didn’t take that long to set up and I think that the GitHub connection that it provides is a huge (or dare I say essential) time saver for solo developers.
+
+# Marketing and Growth
+
+Still, at the early stages of it all, my main marketing strategy has been trying to cold-email PAP (Podcasts about Podcasting) hosts, as well as influencers and magazines that provide information for podcasters in hopes of landing PR deals. All of this is very much still in the early stages, but I think this is the most important and the hardest part when building any type of community or user-driven platform. I’m also considering a lot of other things – social media and google ads, spamming forums, etc. but for now I prefer the organic nature of doing cross-posting on outlets that podcasters naturally gravitate towards.
+
+Only time will tell whether [**CastSpot**](https://castspot.io/home) will grow into a real community but I hope that for now you enjoyed this blog post and will be interested enough to check in at a later stage.

@@ -1,3 +1,4 @@
+---
 title: Instagram tries a new design for its Stories in its web version
 layout: post
 permalink: /instagram-stories-web-version

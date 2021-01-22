@@ -1,7 +1,7 @@
 ---
 title: Soci, which offers tools to help businesses with “localized marketing” across search and social media, raises $80M Series D
 layout: post
-image:
+image: https://i.imgur.com/Ng9x17n.jpg
 permalink: /soci-80m-series-d
 ---
 

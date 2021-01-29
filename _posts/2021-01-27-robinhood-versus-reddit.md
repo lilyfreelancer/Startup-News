@@ -1,7 +1,7 @@
 ---
 title: Robinhood says due to “recent volatility” it is restricting trading for certain stocks
 layout: post
-image: https://i.imgur.com/JAh7BNi.jpg
+image: https://i.imgur.com/yReXzqW.jpg
 permalink: /robinhood-vs-reddit
 ---
 

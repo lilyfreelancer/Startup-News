@@ -1,7 +1,7 @@
 ---
-title: Y Combinator and 500 Startups: the best accelerators for startups
-image: https://i.imgur.com/apbdwAE.jpg
+title: Y Combinator and 500 Startups, the best accelerators for startups
 layout: post
+image: https://i.imgur.com/apbdwAE.jpg
 permalink: /y-combinator-and-500-startups
 ---
 

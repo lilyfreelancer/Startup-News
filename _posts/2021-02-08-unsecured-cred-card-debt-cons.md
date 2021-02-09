@@ -2,7 +2,7 @@
 title: The Advantages of an Unsecured Credit Card Debt Consolidation Loan
 layout: post
 permalink: /the-advantages-of-an-unsecured-credit-card-debt-consolidation-loan
-image: https://i.imgur.com/ZlZtFcI.jpg
+image: https://i.imgur.com/Gu1wUG5.jpg
 ---
 
 The primary difference between a secured loan and an unsecured loan is you’ll pledge an asset such as your home to [serve as collateral](https://www.thebalance.com/collateral-loans-315195) for a secured loan.

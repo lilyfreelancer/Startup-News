@@ -2,6 +2,7 @@
 title: Where to Buy Carpets
 layout: post
 permalink: /where-to-buy-carpets
+image: https://i.imgur.com/5uxqzj8.jpg
 ---
 
 Many of us are not aware of the fact that we need to [visit a carpet store](https://carpetace.com.au/carpet-flooring-store/) before we make a purchase. This is because buying the perfect carpet for our home or that of others requires us to make an investment and the carpet store is the one who helps us in making that investment. However, some of us do know the advantages of visiting such a store and hence it becomes our responsibility to learn more about them. Here is a list of some of the benefits that visiting a carpet store has to offer you.

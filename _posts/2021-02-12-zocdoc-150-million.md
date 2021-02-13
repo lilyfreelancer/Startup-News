@@ -2,6 +2,7 @@
 title: Zocdoc raises $150 million
 layout: post
 permalink: /zocdoc-raises-150-million
+image: https://i.imgur.com/gzyQgf6.jpg
 ---
 
 According to the release on [PR Newswire](https://www.prnewswire.com/news-releases/zocdoc-announces-150-million-in-growth-financing-from-francisco-partners-301226950.html):

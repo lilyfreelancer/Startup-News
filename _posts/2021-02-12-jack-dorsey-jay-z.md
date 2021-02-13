@@ -1,9 +1,9 @@
 ---
-title: Jack Dorsey and Jay Z create trust endowment with 500 bitcoin, worth $23M
+title: Jack Dorsey and Jay Z create trust endowment with 500 bitcoin
 layout: post
 image: https://i.imgur.com/6aKVEUg.jpg
 permalink: /jack-dorsey-jay-z-500-bitcoin
---
+---
 
 Twitter and Square CEO Jack Dorsey announced plans to fund a large Bitcoin investment in developing countries, "initially focused on teams in Africa and India," according to a recent tweet.
 

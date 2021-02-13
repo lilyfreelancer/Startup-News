@@ -1,5 +1,5 @@
 ---
-title: Zocdoc, which pivoted from patient scheduling to offering telehealth services during the pandemic, raises a $150M
+title: Zocdoc raises $150 million
 layout: post
 permalink: /zocdoc-raises-150-million
 ---

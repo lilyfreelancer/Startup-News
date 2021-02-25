@@ -176,7 +176,6 @@ description: "Startup & Big Tech News"
             {% include main-loop-card.html %}
         
         {% endfor %}
- 
         
         <div class="mt-5">
          <!-- Pagination links -->
@@ -188,7 +187,7 @@ description: "Startup & Big Tech News"
                 <li class="page-item disabled"><span class="prev page-link">&laquo;</span></li>
               {% endif %}
 
-              {% for page in (1...10) %}
+              {% for page in (1..paginator.total_pages) %}
                 {% if page == paginator.page %}
                 <li class="page-item disabled"><span class="webjeda page-link">{{ page }}</span></li>
                 {% elsif page == 1 %}
@@ -207,6 +206,8 @@ description: "Startup & Big Tech News"
             {% endif %}      
         </div>
         
+    </div>
+    
     <div class="col-md-4">
         {% include sidebar-featured.html %}    
     </div>

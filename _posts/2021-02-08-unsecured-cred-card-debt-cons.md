@@ -15,7 +15,7 @@ With that in mind, why would you do debt consolidation any other way? To answer 
 
 In a nutshell, an unsecured loan is a financial instrument backed only by your promise to repay it according to the terms of the loan agreement. In other words, the only collateral you’ll pledge is your good name. 
 
-As you might well imagine, lenders are very picky about the people to whom [unsecured credit card debt consolidation loans](https://www.bills.com/debtconsolidation/creditcardconsolidation) are extended. You’ll need a strong credit score to qualify — and you’ll be looking at higher interest payments than you would with a secured loan.
+As you might well imagine, lenders are very picky about the people to whom [unsecured credit card debt consolidation loans](https://www.bills.com/paying-off-debt/debt-consolidation/credit-card-consolidation) are extended. You’ll need a strong credit score to qualify — and you’ll be looking at higher interest payments than you would with a secured loan.
 
 **So why would you want one?**
 

@@ -21,6 +21,4 @@ It now remains to be seen when it will go live and how users welcome the initiat
 
 What is clear is that this step will represent an important source of revenue for Twitter, since until now the content services were accessible free of charge to all users equally.
 
-But Twitter has not only stayed there, but throughout this event has also given some details about a "safety mode", which will allow users to block and mute abusive accounts automatically.  
-
-Translated with www.DeepL.com/Translator (free version)
+But Twitter has not only stayed there, but throughout this event has also given some details about a "safety mode", which will allow users to block and mute abusive accounts automatically. 

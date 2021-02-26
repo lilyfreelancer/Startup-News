@@ -5,7 +5,7 @@ image: https://i.imgur.com/NJrCcPo.jpg
 permalink: /overview-of-prince2-foundation-variables
 ---
 
-In this article present a brief overview about the seven variables of successful prince2 project management. As a highly motivated individual prince2 foundation project manager, you are its centre. Thus, prince2 project managers need skills and techniques that are more than practical. Effective prince2 project management need to effectively deal with; time-critical situations, support from methodology and logical approaches.
+In this article present a brief overview about the seven variables of successful prince2 project management. As a highly motivated individual [prince2 foundation project manager](https://www.knowledgetreetraining.com/courses/prince2-training/prince2-foundation-training-course), you are its centre. Thus, prince2 project managers need skills and techniques that are more than practical. Effective prince2 project management need to effectively deal with; time-critical situations, support from methodology and logical approaches.
 
 The reason why prince2 project management is important is because it lets you manage your prince2 projects so that when, never again will you sacrifice your team for your prince2 projects or risk your team's pocketbook for prince2 projects that may not be mission critical. If a prince2 project demands resources or cannot manage itself, we all know that organizations pay their bills, but unfortunately, not this is paid for.
 

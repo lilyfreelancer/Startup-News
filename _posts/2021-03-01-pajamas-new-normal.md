@@ -1,5 +1,5 @@
 ---
-title: Prepping for the New Normal with new pajamas
+title: Preparing for the New Normal with new pajamas
 layout: post
 image: https://i.imgur.com/HGDtH8U.jpg
 permalink: /new-pajamas

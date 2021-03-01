@@ -2,7 +2,7 @@
 title: Prepping for the New Normal with new pajamas
 layout: post
 image: https://i.imgur.com/HGDtH8U.jpg
-permalink: /new-normal-pajamas
+permalink: /new-pajamas
 ---
 
 With work-from-home being the new normal in tech companies, the average bloke can get away with working in their pajamas. In fact, there is a huge demand  to buy trendy pajamas that would even be fashionable in a Zoom conference call.
@@ -18,6 +18,8 @@ When looking for practical [pajamas for men](https://searchshops.com/collection/
 ![](https://i.imgur.com/EPPI2H7.png)
 
 I know that since I've converted to working at home, having comfortable and flexible pants is highly valuable. I find this pair to be well insulated during the Winter, yet not too constricted to be usable during this up coming spring/summer.
+
+I’d go as far to say that these pajama pants are also compatible with casual wear, making a fashion item that you could even use during a shopping trip.
 
 ---
 
@@ -41,10 +43,13 @@ There are multiple printed styles available direct from Macy’s, so mix and mat
 
 ---
 
-If you're looking for a looser fit and flamboyant look, definitely opt for the high-waisted Sunday sleep ultra-soft plus-size Pajama Joggers by Old Navy.
+If you're looking for a looser fit and flamboyant look, definitely opt for the **high-waisted Sunday sleep ultra-soft plus-size Pajama Joggers** by Old Navy. And I think these joggers are very much in-style for the work-at-home lifestyle.
 
 ![](https://i.imgur.com/PnPNo2T.png)
 
+The elasticized and high waist band makes it great if you’re weight has bounced around during lock-down, and it can fit a variety of natural body shapes. The curved drop-crotch inseam also makes it more maneuverable while sitting in your office chairs, doing household chores, or lounging on the couch.
+
 ## Final Thoughts
 
-While I and quite firm on my personal pajama recommendation above, you should always shop with your personal needs in mind. This is why I would highly recommend keeping your eyes peeled at **SearchShops.com**, a fashion deal aggregator with new collections every day.
+While I and quite firm on my personal pajama recommendation above, you should always shop with your personal needs in mind. This is why I would highly recommend keeping your eyes peeled at **SearchShops.com**, a fashion deal aggregator with new collections every day. Simply subscribe for daily updates, or search for the types of pajamas or other clothing collections that you’re interested in.
+
